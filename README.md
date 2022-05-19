@@ -1,2 +1,2 @@
 
-[![My github trophy](https://github-profile-trophy.vercel.app/?username=NyanKaungSet&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![My github trophy](https://github-profile-trophy.vercel.app/?username=Yaethwe&row=1)](https://github.com/ryo-ma/github-profile-trophy)
