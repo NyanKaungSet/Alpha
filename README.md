@@ -109,20 +109,18 @@ Note: The order of the `em` and `strong` tags might be reversed depending on the
 [Back to Top](#top)<br>
 If you want to create a blockquote, add a > in front of the text.
 
-***Markdown***
-
+***Markdown***<br>
 `> This is a blockquote.`
 
 <br>
 
-***HTML***
-
+***HTML***<br>
 &lt;blockquote&gt;<br>
    &lt;p&gt;This is a blockquote.&lt;/p&gt;<br>
 &lt;/blockquote&gt;
 <br>
 
-***Output***
+***Output***<br>
   > This is a blockquote.
 *****
 
