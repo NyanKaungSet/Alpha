@@ -19,7 +19,7 @@
 - :point_right: Go To Sign Up Section.
 - :point_right: Please enter you ***REAL*** email address (So that we can inform you if unexpected things happen.)
 - :point_right: Enter your Password, Nickname and Birth year.
-- :point_right: When you are successfully sign up, you will be automatically login.
+- :point_right: When you successfully sign up, you will be automatically login.
 - :point_right: You can rename your nickname and profile picture.
 - :point_right: When you change your profile picture, please add the absolute URL(*This is absolute URL* `https://wikipedia.org`)
 - :point_right: You can also add your biography. 
@@ -27,7 +27,7 @@
 ### Searching Friends
 - :point_right: If your friend also has an account in CoolDevs, you can find him/her too!
 - :point_right: Press Search Profile With Email, Enter him/her email address.
-- :point_right: If you type the correct email, you will find your frineds!
+- :point_right: If you type the correct email, you will find your friends!
 
 *****
 
