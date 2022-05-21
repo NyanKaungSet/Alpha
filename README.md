@@ -22,7 +22,7 @@
 - :point_right: You can also add your biography. 
 
 ### Searching Friends
-- :point_right: If your friend also have an account in CoolDevs, you can find him/her too!
+- :point_right: If your friend also has an account in CoolDevs, you can find him/her too!
 - :point_right: Press Search Profile With Email, Enter him/her email address.
 - :point_right: If you type the correct email, you will find your frineds!
 
