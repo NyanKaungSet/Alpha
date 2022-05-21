@@ -6,8 +6,8 @@
 
 <a id="introduction"></a>
 # Introduction
-[x] Your password is encrypted, even we don't know your password.
-[x] We continuously update our website. If you have any suggestions let us know!
+- [x] Your password is encrypted, even we don't know your password.
+- [x] We continuously update our website. If you have any suggestions let us know!
 
 *****
 
