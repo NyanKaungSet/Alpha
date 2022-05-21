@@ -2,7 +2,6 @@
 1. [Introduction](#introduction)
 2. [How to Use](#how_to_use)
 3. [About us](#about_us)
-4. [Other](#other)
 
 <a id="introduction"></a>
 # Introduction
@@ -13,7 +12,7 @@
 
 <a id="how_to_use"></a>
 # How To Use
-# Creating An Account
+### Creating An Account
 - :point_right: Go To Sign Up Section.
 - :point_right: Please enter you ***REAL*** email address (So that we can inform you if unexpected things happen.)
 - :point_right: Enter your Password, Nickname and Birth year.
@@ -33,11 +32,5 @@
 # About us
 - :point_right: This website is owned by [Yae Thawe](https://yeaethawe.netlify.app/).
 - :point_right: If you encounter unexpected errors, feel free to contact us.
-
-*****
-
-<a id="other"></a>
-# Other
-
 
 *****
