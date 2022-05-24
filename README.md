@@ -17,9 +17,9 @@
 # How To Use
 ### Creating An Account
 - :point_right: Go To Sign Up Section.
-- :point_right: Please enter you ***REAL*** email address (So that we can inform you if unexpected things happen.)
+- :point_right: Please enter your ***REAL*** email address (So that we can inform you if unexpected things happen.)
 - :point_right: Enter your Password, Nickname and Birth year.
-- :point_right: When you are successfully sign up, you will be automatically login.
+- :point_right: When you successfully sign up, you will be automatically login.
 - :point_right: You can rename your nickname and profile picture.
 - :point_right: When you change your profile picture, please add the absolute URL(*This is absolute URL* `https://wikipedia.org`)
 - :point_right: You can also add your biography. 
