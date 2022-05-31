@@ -19,6 +19,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 75px;
 }
 
 .menuItem{
@@ -291,7 +292,6 @@ body{
 		width:90vw;
 	}
     .footer-container{
-        margin-top: 25px;
         display:flex;
         justify-content: space-around;
         align-items: center;

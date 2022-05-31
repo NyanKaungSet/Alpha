@@ -10,6 +10,14 @@
     <link rel="stylesheet" href="../css/styles.css">
 
     <title>Cool-Devs | About Us</title>
+    <style>
+    #topbar {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        transition: top 1.5s;
+    }
+    </style>
 </head>
 <body>
     <div id="motherDiv">
@@ -21,7 +29,7 @@
                 <a href="../index.html" class="menuItem fg-white" title="back to home page"><ion-icon name="home-outline"></ion-icon>Home Page</a>
                 <a href="login.html" id="login-a" class="menuItem fg-white" title="to Login page"><ion-icon name="log-in-outline"></ion-icon>Login</a>
                 <a href="signup.html" id="signup-a" class="menuItem fg-white" title="to Signup page"><ion-icon name="card-outline"></ion-icon>Signup</a>
-                <a><ion-icon id="up-down-switch" name="chevron-down-circle-outline"></ion-icon></a>
+                <!--a><ion-icon id="up-down-switch" name="chevron-down-circle-outline"></ion-icon></a-->
             </div>
         </div>
         <div style="height:50px;"></div>
@@ -63,16 +71,16 @@
 
 <script src="../js/ui.js"></script>
 <script src="../js/aboutus.js"></script>
-    <!--script>
+<script>
     var prevScrollpos = window.pageYOffset;
-    window.onscroll = function() {
+window.onscroll = function() {
     var currentScrollPos = window.pageYOffset;
-      if (prevScrollpos > currentScrollPos) {
-        document.getElementById("logoDiv").style.display = "block";
-      } else {
-        document.getElementById("logoDiv").style.display = "none";
-      }
-      prevScrollpos = currentScrollPos;
+    if (prevScrollpos > currentScrollPos) {
+        document.getElementById("topbar").style.top = "0px";
+    } else {
+        document.getElementById("topbar").style.top = "-150px";
     }
-    </script-->
+    prevScrollpos = currentScrollPos;
+}
+</script>
 </html>
