@@ -63,4 +63,16 @@
 
 <script src="../js/ui.js"></script>
 <script src="../js/aboutus.js"></script>
+    <script>
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+    var currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+        document.getElementById("logoDiv").style.display = "block";
+      } else {
+        document.getElementById("logoDiv").style.display = "none";
+      }
+      prevScrollpos = currentScrollPos;
+    }
+    </script>
 </html>

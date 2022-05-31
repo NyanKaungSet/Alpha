@@ -3,7 +3,6 @@
 }
 
 #motherDiv{
-    margin-top: -32px;
     margin-left: 0px;
 }
 
@@ -292,10 +291,11 @@ body{
 		width:90vw;
 	}
     .footer-container{
+        margin-top: 25px;
         display:flex;
         justify-content: space-around;
         align-items: center;
-        width:95vw;
+        width:100vw;
         min-height:100px;
     }
     .top-bar-container{
