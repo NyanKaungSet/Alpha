@@ -1,3 +1,4 @@
+![apple](img/fav.png)
 <img src="https://img.shields.io/github/stars/Yaethwe/cooldevs.svg"> <img src="https://img.shields.io/badge/Users-4-brightgreen"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"><br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
@@ -27,7 +28,7 @@
 ### Searching Friends
 - :point_right: If your friend also has an account in CoolDevs, you can find him/her too!
 - :point_right: Press Search Profile With Email, Enter him/her email address.
-- :point_right: If you type the correct email, you will find your friends!
+- :point_right: If you type the correct email, you will find your frineds!
 
 *****
 
