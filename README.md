@@ -1,3 +1,4 @@
+![apple](img/fav.png)
 <img src="https://img.shields.io/github/stars/Yaethwe/cooldevs.svg"> <img src="https://img.shields.io/badge/Users-4-brightgreen"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"><br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
