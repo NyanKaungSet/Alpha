@@ -31,12 +31,12 @@
                 <a href="pages/signup.html" class="menuItem fg-white" title="to Signup page" id="signup-a"><ion-icon name="card-outline"></ion-icon>Signup</a>
                 <a href="pages/dashboard.html" class="menuItem fg-white" title="to Dashboard page" id="signup-a"><ion-icon name="card-outline"></ion-icon>Dashboard</a>
                 <a class="menuItem fg-white" title="to Signup page" id="logout-a" onclick="signout()"><ion-icon name="log-out-outline"></ion-icon>Log Out</a>
-                <!--a><ion-icon id="up-down-switch" name="chevron-down-circle-outline"></ion-icon></a-->
+                <a><ion-icon id="up-down-switch" name="chevron-down-circle-outline"></ion-icon></a>
             </div>
         </div>
         <div id="middleDiv">
             <div class="text-container-rounded bg-skyblue SS fg-white activeC">
-                <p>This website is a public website. Click <a href="pages/aboutus.html?o=privacypolicy">here</a> to read our privacy policy</p>
+                <p>This website is a public website. Click <a href="pages/aboutus.html#PrivacyPolicy">here</a> to read our privacy policy</p>
                 <p>You need an account to enter this website.</p>
             </div>
             <!--hidden side menu-->
@@ -75,16 +75,20 @@
 <script src="js/ui.js"></script>
 <script src="js/auth.js"></script>
 <script src="js/index.js"></script>
-<script>
+
+<!--script>
     var prevScrollpos = window.pageYOffset;
+    var ion = document.getElementById('up-down-switch');
 window.onscroll = function() {
     var currentScrollPos = window.pageYOffset;
     if (prevScrollpos > currentScrollPos) {
         document.getElementById("topbar").style.top = "0px";
+        ion.style.display = "block";
     } else {
         document.getElementById("topbar").style.top = "-150px";
+        ion.style.display = "none";
     }
     prevScrollpos = currentScrollPos;
 }
-</script>
+</script-->
 </html>
