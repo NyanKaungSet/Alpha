@@ -40,7 +40,7 @@
 
 *****
 
-<a id="#privacy_policy"></a>
+<a id="privacy_policy"></a>
 # Privacy Policy
 
 ## What infomation do we collect about our users?
@@ -60,3 +60,5 @@ By using our products and services, you signify you racceptance of this Policy. 
 
 <br><br>
 Last updated on 31 May 2022
+
+*****
