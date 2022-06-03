@@ -59,6 +59,6 @@ We reserve the right to change this Policy at any time. If we decide to change t
 By using our products and services, you signify you racceptance of this Policy. If you don't agree to this Policy, please do not use our products and services.  Your continued use of our products and services following the posting of any changes to this Policy will be considered your acceptance of those changes.
 
 <br><br>
-Last updated on 31 May 2022
+*Last updated on 31 May 2022*
 
 *****
