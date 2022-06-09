@@ -37,7 +37,7 @@
 # About us
 - :point_right: This website is owned by [Yae Thawe](https://yeaethawe.netlify.app/).
 - :point_right: If you encounter unexpected errors, feel free to contact us.
-- :point_right: If you are willing to collaborate with us, let us know!
+- :point_right: If you are willing to collaborate with us, feel free to contact us!
 
 *****
 
