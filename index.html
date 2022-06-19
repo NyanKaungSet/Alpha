@@ -1,94 +1,51 @@
 <!DOCTYPE html>
-<html lang="en-MM">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link rel="icon" href="img/fav.png">
-
-    <link rel="stylesheet" href="css/styles.css">
-
-    <title>Cool-Devs</title>
-    <style>
-    #topbar {
-        position: fixed;
-        top: 0;
-        width: 100%;
-        transition: top 1.5s;
-    }
-    </style>
+    <link rel="icon" href="https://nyankaungset.github.io/Templates/earth1.png">
+    <link rel="stylesheet" href="style.css">
+    <title>Cartimpedia</title>
 </head>
 <body>
-    <div id="motherDiv">
-        <div id="topbar" class="top-bar-container bg-blue flex-column flex-center pad-bottom-10">
-            <div id="logoDiv">
-                <a href="https://cooldevs.netlify.app/" class="no-underline"><h1 class="EL fg-white"><img src="img/fav.png" width="50px" style="margin-top: 10px;">Cool-Devs</h1></a>
-            </div>
-            <div id="menuDiv" class="flex SS fs-20 fg-white">
-                <a href="pages/aboutus.html" class="menuItem fg-white" title="to About Us page" id="aboutus-a"><ion-icon name="information-circle-outline"></ion-icon>About Us</a>
-                <a href="pages/login.html" class="menuItem fg-white" title="to Login page" id="login-a"><ion-icon name="log-in-outline"></ion-icon>Login</a>
-                <a href="pages/signup.html" class="menuItem fg-white" title="to Signup page" id="signup-a"><ion-icon name="card-outline"></ion-icon>Signup</a>
-                <a href="pages/dashboard.html" class="menuItem fg-white" title="to Dashboard page" id="signup-a"><ion-icon name="card-outline"></ion-icon>Dashboard</a>
-                <a class="menuItem fg-white" title="to Signup page" id="logout-a" onclick="signout()"><ion-icon name="log-out-outline"></ion-icon>Log Out</a>
-                <a><ion-icon id="up-down-switch" name="chevron-down-circle-outline"></ion-icon></a>
-            </div>
-        </div>
-        <div id="middleDiv">
-            <div class="text-container-rounded bg-skyblue SS fg-white activeC">
-                <p>This website is a public website. Click <a href="pages/aboutus.html#PrivacyPolicy">here</a> to read our privacy policy</p>
-                <p>You need an account to enter this website.</p>
-            </div>
-            <!--hidden side menu-->
-            <div id="sidemenu" class="hide">
-                
-            </div>
-            <div id="msgDiv"></div>
-        </div>
-		
-		<div class="half-div-container SS">
-			<div class="half-div text-container-rounded bg-layer1 center">
-				<h2 class="fg-orange ">Our Projects</h2>
-				<a href="https://gardennet.netlify.app/"><img src="img/GardenNet.png" class="rounded-img"><br><label>Garden Net</label></a><br>
-				<a href="https://teenchat.netlify.app/"><img src="img/teenchat.png" class="rounded-img"><br><label>Teen Chat</label></a><br>
-				<a href="https://cooldevs.netlify.app/"><img src="img/fav.png" class="rounded-img" style="margin-left:50px;"><br><label>Cool-Devs (under construction)</label></a><br>
-			</div>
-			<div class="half-div text-container-rounded bg-aqua center">
-                <div class="flex"><h2 class="fg-orange">Collaborators on GitHub</h2><img src="img/github.png" class="icon" style="margin-top: 20px; margin-left:5px;"></div>
-				<a href="https://nyankaungset.netlify.app/">NyanKaungSet</a><br>
-				<a href="https://yeaethawe.netlify.app/">YeaeThawe</a><br>
-				<a href="pages/signup.html">add me +</a><br>
-			</div>
-		</div>
-		
-        <div id="footerDiv" class="footer-container bg-violet">
-            <label class="SS fg-white">Copyright &copy; 2022 Cool-Devs</label>
-        </div>
+    <nav class="topnav" id="myTopnav">
+        <a href="index.html" class="active"><ion-icon name="home-outline"></ion-icon> Home</a>
+        <a href="https://nyankaungset.github.io/Templates/soon.html">Coming Soon</a>
+        <a href="https://nyankaungset.github.io/Templates/soon.html">Coming Soon</a>
+        <a href="about.html"><strong>i</strong>About</a>
+        <a href="javascript:void(0);" class="icon" onclick="navbar()">
+            <ion-icon name="list-outline"></ion-icon>
+        </a>
+    </nav>
+
+    <div class="latest_news_container">
+        <p class="news_text">NEWS</p>
+        <marquee behavior="scroll">
+            this website is currently under construction...
+        </marquee>
+    </div>    
+    
+    <div class="alert">
+        <ion-icon id="construct" name="construct-outline"></ion-icon>
+        <p>Please try again later. This page is currently under constuction.</p>
+        <ion-icon id="cog" name="cog-outline"></ion-icon>
     </div>
+
+    <footer>
+      <div class="footer">
+        <p>© 2022 Cartimpedia</p>
+        <a href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Policy</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
-<!--ionicons-->
-<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script><script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
-<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
-<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
-<script src="js/ui.js"></script>
-<script src="js/auth.js"></script>
-<script src="js/index.js"></script>
-
-<!--script>
-    var prevScrollpos = window.pageYOffset;
-    var ion = document.getElementById('up-down-switch');
-window.onscroll = function() {
-    var currentScrollPos = window.pageYOffset;
-    if (prevScrollpos > currentScrollPos) {
-        document.getElementById("topbar").style.top = "0px";
-        ion.style.display = "block";
-    } else {
-        document.getElementById("topbar").style.top = "-150px";
-        ion.style.display = "none";
-    }
-    prevScrollpos = currentScrollPos;
-}
-</script-->
 </html>
+
+<!-- TO DO 
+2. Discussion
+3. Trending now
+-->
