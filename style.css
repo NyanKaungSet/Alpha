@@ -1,7 +1,7 @@
 body{margin:0;padding:0;box-sizing: border-box;}
 h3{text-align: center;}
 a{text-decoration: none;color: #8f8f8f;}
-a:hover{color: #fff;}
+a:hover{color: #fff;text-decoration: underline;}
 
 /* -------- NAVBAR -------- */
 .topnav {
@@ -189,6 +189,19 @@ tr:nth-child(even){
     border-radius: 10px;
     padding: 7px;
     box-shadow: 0 0 5px #000000;
+}
+.about_owner p{
+    font-family: cursive,sans-serif;
+}
+.about_owner h1{
+    font-family: Cinzel,sans-serif;
+}
+.about_owner .rank{
+    color: #8f8f8f;
+    cursor: pointer;
+}
+.about_owner .rank:hover{
+    color: #fff;
 }
 .about_owner img{
     margin-top: 20px;

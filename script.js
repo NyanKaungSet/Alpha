@@ -12,5 +12,5 @@ function navbar() {
 }
 
 function NA(){
-  alert('You are currently not allowed to enter! Sorry mate.')
+  alert('You are currently not allowed! Sorry mate.')
 }
