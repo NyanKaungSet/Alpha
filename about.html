@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cinzel|Fauna+One">
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
     <title>Cartimpedia | About us</title>
 </head>
 <body>
+  <div id="main_container">
     <nav class="topnav" id="myTopnav">
         <a href="index.html"><ion-icon name="home-outline"></ion-icon> Home</a>
         <a href="https://nyankaungset.github.io/Templates/soon.html">Coming Soon</a>
@@ -76,10 +78,36 @@
       <footer>
         <div class="footer">
           <p>© 2022 Cartimpedia</p>
-          <a href="#CI" onclick="NA()">FAQs</a>
+          <button class="FAQMain" id="GoToFAQ">FAQS</button>
           <a target="_blank" href="https://github.com/CartimDraluc/Cartimpedia/blob/main/POLICY.md">Policy</a>
         </div>
       </footer>
+  </div>
+
+  <div id="FAQs_container">
+    <div class="navbar">
+      <button class="FAQMain" id="BackToMain">Back To Main</button>
+    </div>
+    <h1 class="flip">Title<h1>
+		<div class="panel">
+      <p>Description that slides down</p>
+		</div>
+
+    <h1 class="flip">Title<h1>
+		<div class="panel">
+      <p>description that slide down</p>
+		</div>
+        
+    <h1 class="flip">Title<h1>
+    <div class="panel">
+      <p>Description that slides down</p>
+    </div>
+
+    <h1 class="flip">Title<h1>
+    <div class="panel">
+      <p>description that slide down</p>
+    </div>
+  </div>
 
     <script src="script.js"></script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
