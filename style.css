@@ -116,6 +116,37 @@ a:hover{color: #fff;text-decoration: underline;}
     .footer{font-size: 14px;}
 }
 
+/* -------- FAQ Section -------- */
+.FAQMain{
+    border: none;
+    background-color: #2f2f2f;
+    color: #8f8f8f;
+}
+.FAQMain:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+
+#FAQs_container .navbar{
+    position: sticky;
+    top: 0;
+    background-color: #2f2f2f;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.panel,.flip{
+    padding:5px;
+    text-align:center;
+    background-color:#e5eecc;
+    border:solid 1px #c3c3c3;
+}
+.panel{
+    padding:50px;
+    display:none;
+}
+
+
 /* -------- INDEX.HTML -------- */
 /* -------- Alert Section -------- */
 .alert{
@@ -201,7 +232,7 @@ tr:nth-child(even){
     cursor: pointer;
 }
 .about_owner .rank:hover{
-    color: #fff;
+    color: #ffff00;
 }
 .about_owner img{
     margin-top: 20px;
@@ -214,6 +245,9 @@ tr:nth-child(even){
     .about_owner img{
         max-width: 200px;
         max-height: 200px;
+    }
+    .about_owner .rank{
+        color: #ffff00;
     }
 }
 .created_webs{
