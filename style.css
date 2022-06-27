@@ -210,10 +210,10 @@ tr:nth-child(even){
 
 /* About Owner Section */
 .about_owner{
-    width: 30%;
+    width: 40%;
     margin: 0 auto;
     margin-top: 120px;
-    margin-bottom: 50px;
+    margin-bottom: 200px;
     text-align: center;
     background-color: #333;
     color: #fff;
@@ -228,17 +228,16 @@ tr:nth-child(even){
     font-family: Cinzel,sans-serif;
 }
 .about_owner .rank{
-    color: #8f8f8f;
+    color: #ffff00;
     cursor: pointer;
 }
-.about_owner .rank:hover{
-    color: #ffff00;
-}
 .about_owner img{
+    width: 350px;
+    height: 350px;
     margin-top: 20px;
     border-radius: 30px;
 }
-@media screen and (max-width:1100px) {
+@media screen and (max-width:946px) {
     .about_owner{
         width: 80%;
     }
@@ -253,16 +252,10 @@ tr:nth-child(even){
 .created_webs{
     text-align: left;
 }
-
-/* Contact Section */
 .contact_info{
-    margin: 0 auto;
-    width: 80%;
-    text-align: center;
     padding: 10px;
     border-radius: 20px;
     font-size: 20px;
     background-color: #333;
     color: #fff;
-    margin-bottom: 200px;
 }
