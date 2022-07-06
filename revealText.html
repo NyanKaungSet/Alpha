@@ -32,7 +32,14 @@
             font-size: 3em;
             transition: 0.5s;
             transform-origin: left;
+            transform: scaleX(0);
+        }
+        section .content h2[data-scroll="in"]{
             transform: scaleX(1);
+        }
+        section .content h2[data-scroll="in"]::before{
+            transform: scaleX(0);
+            transition-delay: 0.5s;
         }
         section .content h2::before{
             content: '';
@@ -52,8 +59,16 @@
             display: inline-block;
             font-size: 2em;
             transition: 0.5s;
-            transform-origin: right;
+            transform-origin: left;
+            transform: scaleX(0);
+        }
+        section .content h3[data-scroll="in"]{
             transform: scaleX(1);
+            transition-delay: 1s;
+        }
+        section .content h3[data-scroll="in"]::before{
+            transform: scaleX(0);
+            transition-delay: 1.5s;
         }
         section .content h3::before{
             content: '';
@@ -66,6 +81,15 @@
             transform-origin: right;
             transition: 0.5s;
         }
+        section .content p{
+            font-size: 1.2em;
+            transition: 1s;
+            opacity: 0;
+        }
+        section .content p[data-scroll="in"]{
+            opacity: 1;
+            transition-delay: 1s;
+        }
         section .content a{
             position: relative;
             background-color: #fff;
@@ -76,6 +100,13 @@
             text-decoration: none;
             font-weight: 700;
             transition: 1s;
+            opacity: 0;
+            transform: translateX(100px);
+        }
+        section .content a[data-scroll="in"]{
+            opacity: 1;
+            transform: translateX(0);
+            transition-delay: 1s;
         }
     </style>
 </head>
@@ -145,5 +176,11 @@
             <a href="#">Read More</a>
         </div>
     </section>
+    <script src="revealText.js"></script>
+    <script>
+        ScrollOut({
+            targets: 'h2,h3,p,a'
+        })
+    </script>
 </body>
 </html>
