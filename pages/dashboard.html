@@ -4,12 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <link rel="icon" href="../img/fav.png">
-
     <link rel="stylesheet" href="../css/styles.css">
-
     <title>Cool-Devs | Dashboard</title>
+    <style>
+        #topbar {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        transition: top 1s;
+    }
+    </style>
 </head>
 <body>
     <div id="motherDiv">
@@ -21,10 +26,9 @@
                 <a href="../index.html" class="menuItem fg-white" title="back to home page"><ion-icon name="home-outline"></ion-icon>Home Page</a>
                 <a href="aboutus.html" class="menuItem fg-white" title="to About Us page"><ion-icon name="information-circle-outline"></ion-icon>About Us</a>
                 <a onclick="signout()" class="menuItem fg-white" title="to LogOut"><ion-icon name="log-out-outline"></ion-icon>Log Out</a>
-                <a><ion-icon id="up-down-switch" name="chevron-down-circle-outline"></ion-icon></a>
+                <!--a><ion-icon id="up-down-switch" name="chevron-down-circle-outline"></ion-icon></a-->
             </div>
         </div>
-        <div style="height:50px;"></div>
         <div id="middleDiv">
             <div class="text-container-rounded bg-wheat SS fg-purple activeC pad-10 flex-center flex-column" id="text-container">
                 <h2 class="fg-orange">Welcome To Dashboard <span id="username-box" class="fg-orange"></span></h2>
@@ -37,8 +41,8 @@
                     <button id="save-btn-at-bio" class="common-btn" style="margin:10px;">save</button>
                 </div>
             </div>
-            <div id="search-email-container" style="width:100%">
-                <button class="common-btn" onclick="showSearchEmail()">Search Profile With Email<ion-icon name="search-outline"></ion-icon></button>
+            <div id="search-email-container">
+                <button class="common-btn" onclick="showSearchEmail()"><ion-icon name="search-outline"></ion-icon> Search Friend With Email</button>
             </div>
         </div>
         <div id="footerDiv" class="footer-container bg-violet">
@@ -93,6 +97,6 @@
 <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
 <script src="../js/auth.js"></script>
-<script src="../js/ui.js"></script>
 <script src="../js/dashboard.js"></script>
+<script src="../js/ui.js"></script>
 </html>
