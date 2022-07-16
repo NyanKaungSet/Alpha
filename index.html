@@ -4,18 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <link rel="icon" href="img/fav.png">
-
     <link rel="stylesheet" href="css/styles.css">
-
     <title>Cool-Devs</title>
     <style>
-    #topbar {
+        #topbar {
         position: fixed;
         top: 0;
         width: 100%;
-        transition: top 1.5s;
+        transition: top 0.5s;
     }
     </style>
 </head>
@@ -26,14 +23,15 @@
                 <a href="https://cooldevs.netlify.app/" class="no-underline"><h1 class="EL fg-white"><img src="img/fav.png" width="50px" style="margin-top: 10px;">Cool-Devs</h1></a>
             </div>
             <div id="menuDiv" class="flex SS fs-20 fg-white">
-                <a href="pages/aboutus.html" class="menuItem fg-white" title="to About Us page" id="aboutus-a"><ion-icon name="information-circle-outline"></ion-icon>About Us</a>
+                <a href="pages/dashboard.html" class="menuItem fg-white" title="to Dashboard page" id="signup-a"><ion-icon name="desktop-outline"></ion-icon></ion-icon>Dashboard</a>
                 <a href="pages/login.html" class="menuItem fg-white" title="to Login page" id="login-a"><ion-icon name="log-in-outline"></ion-icon>Login</a>
                 <a href="pages/signup.html" class="menuItem fg-white" title="to Signup page" id="signup-a"><ion-icon name="card-outline"></ion-icon>Signup</a>
-                <a href="pages/dashboard.html" class="menuItem fg-white" title="to Dashboard page" id="signup-a"><ion-icon name="card-outline"></ion-icon>Dashboard</a>
+                <a href="pages/aboutus.html" class="menuItem fg-white" title="to About Us page" id="aboutus-a"><ion-icon name="information-circle-outline"></ion-icon>About</a>
                 <a class="menuItem fg-white" title="to Signup page" id="logout-a" onclick="signout()"><ion-icon name="log-out-outline"></ion-icon>Log Out</a>
-                <a><ion-icon id="up-down-switch" name="chevron-down-circle-outline"></ion-icon></a>
+                <!--a><ion-icon id="up-down-switch" name="chevron-down-circle-outline"></ion-icon></a-->
             </div>
         </div>
+        <div style="height: 50px;"></div>
         <div id="middleDiv">
             <div class="text-container-rounded bg-skyblue SS fg-white activeC">
                 <p>This website is a public website. Click <a href="pages/aboutus.html#PrivacyPolicy">here</a> to read our privacy policy</p>
@@ -54,7 +52,7 @@
 				<a href="https://cooldevs.netlify.app/"><img src="img/fav.png" class="rounded-img" style="margin-left:50px;"><br><label>Cool-Devs (under construction)</label></a><br>
 			</div>
 			<div class="half-div text-container-rounded bg-aqua center">
-                <div class="flex"><h2 class="fg-orange">Collaborators on GitHub</h2><img src="img/github.png" class="icon" style="margin-top: 20px; margin-left:5px;"></div>
+                <div class="flex"><h2 class="fg-orange">Collaborators on GitHub</h2><ion-icon size="large" name="logo-github"></ion-icon></div>
 				<a href="https://nyankaungset.netlify.app/">NyanKaungSet</a><br>
 				<a href="https://yeaethawe.netlify.app/">YeaeThawe</a><br>
 				<a href="pages/signup.html">add me +</a><br>
@@ -75,20 +73,4 @@
 <script src="js/ui.js"></script>
 <script src="js/auth.js"></script>
 <script src="js/index.js"></script>
-
-<!--script>
-    var prevScrollpos = window.pageYOffset;
-    var ion = document.getElementById('up-down-switch');
-window.onscroll = function() {
-    var currentScrollPos = window.pageYOffset;
-    if (prevScrollpos > currentScrollPos) {
-        document.getElementById("topbar").style.top = "0px";
-        ion.style.display = "block";
-    } else {
-        document.getElementById("topbar").style.top = "-150px";
-        ion.style.display = "none";
-    }
-    prevScrollpos = currentScrollPos;
-}
-</script-->
 </html>
