@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img align=center src="https://readme-typing-svg.herokuapp.com?font=elephant&duration=7000&center=true&vCenter=true&width=500&height=70&lines=Beyond+Better+Together+%3A+CoolDevs" alt="Typing SVG" /></a>
 
 
 ![apple](img/fav.png) <br><br>
