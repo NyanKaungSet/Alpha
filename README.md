@@ -45,6 +45,3 @@
 - :point_right: If you are willing to collaborate with us, feel free to contact us!
 
 *****
-
-<h3 align=center>Contributors</h3>
-<p align=center><img src="https://contrib.rocks/image?repo=Yaethwe/cooldevs"/></p>
