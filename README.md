@@ -15,8 +15,7 @@
 
 <a id="introduction"></a>
 # Introduction
-- [x] Your password is encrypted, even we don't know your password.
-- [x] We continuously update our website. If you have any suggestions let us know!
+We have launched Cooldevs on 15 December 2022. We update this website from time to time.
 
 *****
 
@@ -40,8 +39,8 @@
 
 <a id="about_us"></a>
 # About us
-- :point_right: This website is owned by [Yae Thawe](https://yeaethawe.netlify.app/).
-- :point_right: If you encounter unexpected errors, feel free to contact us.
-- :point_right: If you are willing to collaborate with us, feel free to contact us!
+This website is owned by [Yae Thawe](https://yeaethawe.netlify.app/). If you encounter unexpected errors, feel free to contact us. 
+
+<p align=center>Willing To Collaborate Us? Let's Know!</p>
 
 *****
