@@ -31,9 +31,9 @@ We have launched Cooldevs on 15 December 2022. We update this website from time 
 - :point_right: You can also add your biography. 
 
 ### Searching Friends
-- :point_right: If your friend also has an account in CoolDevs, you can find him/her too!
-- :point_right: Press Search Profile With Email, Enter him/her email address.
-- :point_right: If you type the correct email, you will find your frineds!
+- :point_right: If your friend also has an account in CoolDevs, you can find him/her too! :eyes:
+- :point_right: Press Search Profile With Email, Enter him/her email address :envelope:.
+- :point_right: If you type the correct email, you will find your frineds! :hugs:
 
 *****
 
