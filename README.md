@@ -4,7 +4,7 @@
 <p align=center><img align=center src="img/fav.png"></p> <br><br>
 
 
-<img src="https://img.shields.io/github/stars/Yaethwe/cooldevs.svg"> <img src="https://img.shields.io/badge/Users-5-brightgreen"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"><br>
+<img src="https://img.shields.io/github/stars/Yaethwe/cooldevs.svg"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"><br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
 # Table Of Content
@@ -45,3 +45,6 @@
 - :point_right: If you are willing to collaborate with us, feel free to contact us!
 
 *****
+
+<h3 align=center>Contributors</h3>
+<p align=center><img src="https://contrib.rocks/image?repo=Yaethwe/cooldevs"/></p>
