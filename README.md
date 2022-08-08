@@ -39,8 +39,8 @@ We have launched Cooldevs on 15 December 2022. We update this website from time 
 
 <a id="about_us"></a>
 # About us
-This website is owned by [Yae Thawe](https://yeaethawe.netlify.app/). If you encounter unexpected errors, feel free to contact us. 
+This website is owned by [Yae Thawe](https://yeaethawe.netlify.app/). If you encounter unexpected errors, feel free to contact. 
 
-<p align=center>Willing To Collaborate Us? Let's Know!</p>
+<p align=center><b><i>Willing To Collaborate Us? Let's Know!</i></b></p>
 
 *****
