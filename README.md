@@ -17,9 +17,9 @@
 # Introduction
 We have launched Cooldevs on 15 December 2022. Cooldevs is a multipurpose website. You can
 
-- [x] Chat with your friends:thought_balloon:
-- [x] Listen to a music:headphones:
-- [x] And many more are about to add in the future!
+- [x] Chat with your friends :thought_balloon:
+- [x] Listen to a music :headphones:
+- [x] And many more are about to add in the future! :clipboard:
 
 Your information is encrypted:lock:. We update this website from time to time.:bar_chart:
 
@@ -45,7 +45,7 @@ Your information is encrypted:lock:. We update this website from time to time.:b
 
 <a id="about_us"></a>
 # About us
-<p align=center>This website is owned by [Yae Thawe](https://yeaethawe.netlify.app/). If you encounter unexpected errors, feel free to contact.</p>
+<p align=center>This website is owned by <a href="https://yeaethawe.netlify.app/">Yae Thawe</a>. If you encounter unexpected errors, feel free to contact.</p>
 <br>
 
 <p align=center><b><i>Willing To Collaborate With Us? Let's Know!</i></b></p>
