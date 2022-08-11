@@ -29,7 +29,7 @@ Your information is encrypted:lock:. We update this website from time to time. :
 # How To Use
 ### Creating An Account
 - :point_right: Go To Sign Up Section.
-- :point_right: Please enter your ***REAL*** email address (So that we can inform you if unexpected things happen.)
+- :point_right: Please enter your ***REAL*** email address :email:(So that we can inform you if unexpected things happen.)
 - :point_right: Enter your Password, Nickname and Birth year.
 - :point_right: When you successfully sign up, you will be automatically login.
 - :point_right: You can rename your nickname and profile picture anytime. :pencil2:
