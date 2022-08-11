@@ -32,20 +32,20 @@ Your information is encrypted:lock:. We update this website from time to time.:b
 - :point_right: Please enter your ***REAL*** email address (So that we can inform you if unexpected things happen.)
 - :point_right: Enter your Password, Nickname and Birth year.
 - :point_right: When you successfully sign up, you will be automatically login.
-- :point_right: You can rename your nickname and profile picture. :pencil2:
-- :point_right: When you change your profile picture, please add the absolute URL(*This is absolute URL* `https://wikipedia.org`)
+- :point_right: You can rename your nickname and profile picture anytime. :pencil2:
+- :point_right: When you change your profile picture, please add the absolute URL(*This is an example absolute URL* `https://wikipedia.org`)
 - :point_right: You can also add your biography. :wink:
 
 ### Searching Friends
 - :point_right: If your friend also has an account in CoolDevs, you can find him/her too! :eyes:
-- :point_right: Press Search Profile With Email, Enter him/her email address :envelope:.
+- :point_right: Press Search Profile With Email, Enter his/her email address :envelope:.
 - :point_right: If you type the correct email, you will find your friends! :hugs:
 
 *****
 
 <a id="about_us"></a>
 # About us
-This website is owned by [Yae Thawe](https://yeaethawe.netlify.app/). If you encounter unexpected errors, feel free to contact. 
+<p align=center>This website is owned by [Yae Thawe](https://yeaethawe.netlify.app/). If you encounter unexpected errors, feel free to contact.</p>
 <br>
 
 <p align=center><b><i>Willing To Collaborate With Us? Let's Know!</i></b></p>
