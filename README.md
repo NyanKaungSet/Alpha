@@ -21,7 +21,7 @@ We have launched Cooldevs on 15 December 2022. Cooldevs is a multipurpose websit
 - [x] Listen to a music :headphones:
 - [x] And many more are about to add in the future! :clipboard:
 
-Your information is encrypted:lock:. We update this website from time to time.:bar_chart:
+Your information is encrypted:lock:. We update this website from time to time. :watch:
 
 *****
 
