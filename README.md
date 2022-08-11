@@ -1,4 +1,4 @@
-<p  align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=elephant&duration=7000&center=true&vCenter=true&width=500&height=70&lines=Beyond+Better+Together+%3A+CoolDevs" alt="Typing SVG" /></a></p>
+<p  align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=elephant&duration=7000&center=true&vCenter=true&width=500&height=70&lines=CoolDevs+%3A+Beyond+Better+Together" alt="Typing SVG" /></a></p>
 
 
 <p align=center><img align=center src="img/fav.png"></p> <br><br>
@@ -21,7 +21,7 @@ We have launched Cooldevs on 15 December 2022. Cooldevs is a multipurpose websit
 - [x] Listen to a music:headphones:
 - [x] And many more are about to add in the future!
 
-We update this website from time to time.
+Your information is encrypted:lock:. We update this website from time to time.:bar_chart:
 
 *****
 
