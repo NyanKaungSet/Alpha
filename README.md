@@ -15,7 +15,13 @@
 
 <a id="introduction"></a>
 # Introduction
-We have launched Cooldevs on 15 December 2022. We update this website from time to time.
+We have launched Cooldevs on 15 December 2022. Cooldevs is a multipurpose website. You can
+
+- [x] Chat with your friends:thought_balloon:
+- [x] Listen to a music:headphones:
+- [x] And many more are about to add in the future!
+
+We update this website from time to time.
 
 *****
 
