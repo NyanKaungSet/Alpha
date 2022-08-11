@@ -33,7 +33,7 @@ Your information is encrypted:lock:. We update this website from time to time.:b
 - :point_right: Enter your Password, Nickname and Birth year.
 - :point_right: When you successfully sign up, you will be automatically login.
 - :point_right: You can rename your nickname and profile picture anytime. :pencil2:
-- :point_right: When you change your profile picture, please add the absolute URL(*This is an example absolute URL* `https://wikipedia.org`)
+- :point_right: When you change your profile picture, please add the absolute URL(*This is an example of absolute URL:* `https://wikipedia.org`)
 - :point_right: You can also add your biography. :wink:
 
 ### Searching Friends
