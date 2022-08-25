@@ -1,4 +1,4 @@
-# Note of icons from [Ionicons](https://ionic.io/ionicons)
+# Icons from [Ionicons](https://ionic.io/ionicons)
 ```html
 <ion-icon name="settings-outline"></ion-icon>
 <ion-icon name="trash-outline"></ion-icon>
