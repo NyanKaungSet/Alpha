@@ -17,9 +17,9 @@
 # Introduction
 We have launched Cooldevs on 15 December 2022. Cooldevs is a multi-purpose website. You can :
 
-- [x] Chat with your friends :thought_balloon:
-- [x] Listen to a music :headphones:
-- [x] And many more are about to add in the future! :clipboard:
+- :white_check_mark: Chat with your friends :thought_balloon:
+- :white_check_mark: Listen to a music :headphones:
+- :white_check_mark: And many more are about to add in the future! :clipboard:
 
 Your information is encrypted:lock:. We update this website from time to time. :watch:
 
